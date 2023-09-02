@@ -3,7 +3,12 @@
 
 # Resumo da Aula AWS Cloud Practitioner - 02/09/2023 📚
 
-- GUIA DO EXAME :  https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide_C02.pdf                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+- [GUIA DO EXAME](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide_C02.pdf)
+- [SLIDES](https://docs.google.com/presentation/d/1VMX2Em3AK3Fdjl6cG35SVJ6dWhJBhV7RTZhUM_LXQPc/edit?usp=sharing)
+- [PLANO DE APRENDIZADO](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1543/cloud-essentials-learning-plan-portuguese)
+- [Benefícios da Nuvem AWS](https://aws.amazon.com/pt/application-hosting/benefits/)
+- [Infraestrutura da AWS](https://aws.amazon.com/pt/about-aws/global-infrastructure/)
+                                                                                                                                                                                                                                                                                                                                                                                                                    
 
 No dia 02/09/2023, a aula sobre o AWS Cloud Practitioner Exam (CLF-C02) abordou diversos tópicos importantes relacionados à AWS (Amazon Web Services). O guia do exame, os slides da apresentação e o plano de aprendizado estão disponíveis nos links fornecidos.
 
