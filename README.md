@@ -1,5 +1,5 @@
 # PROZ---AULAS-AWS-EXAME-
-![5001520_d0b9](https://github.com/LaiFrance/PROZ---AULAS-AWS-EXAME-/assets/91226847/2188c65b-7b94-456c-8cdd-937d14d47fe5)
+![capa-post-blog-20](https://github.com/LaiFrance/PROZ---AULAS-AWS-EXAME-/assets/91226847/15bf6611-1dd2-45d2-87b8-72ec7c589fcf)
 
 # Resumo da Aula AWS Cloud Practitioner - 02/09/2023 📚
 
